@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: mishbabagban@gmail.com
+- 📫 Contact me: mishbabagban@gmail.com
 - 😄 Pronouns: she/her
 
 ## TechStack:
