@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- I am mishba
 - 🌱 I’m currently learning JavaScript
 - 📫 Contact me: mishbabagban@gmail.com
 - 😄 Pronouns: she/her
