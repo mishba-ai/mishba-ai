@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Misba, and I am a front-end developer. I am currently learning backend development with JavaScript.
+I am Misba, and I am a front-end developer. I am currently exploring AI/ML.
 
 <!-- ## TechStack:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
